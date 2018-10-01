@@ -164,6 +164,7 @@ apps:
       authorized_groups: ['everyone']
       display: true
       vanity_url: ['/discourse']
+      AAI: "LOW"
   - application:
       name: "Domo"
       client_id: "72Q4MlsbMzRo5Sij6y5JPDAiyGcyDKB2"
@@ -750,7 +751,7 @@ apps:
       url: "https://auth.mozilla.auth0.com/samlp/WXVdgVoCca11OtpGlK8Ir3pR9CBAlSA5"
       logo: "slack.png"
       authorized_users: []
-      authorized_groups: ['mozilliansorg_slack-access', 'team_moco', 'team_mofo', 'team_mozillaonline']
+      authorized_groups: ['mozilliansorg_slack-access', 'team_moco', 'team_mofo', 'team_mozillaonline', 'hris_is_staff']
       display: true
       vanity_url: ['/slack']
   - application:
