@@ -1359,8 +1359,7 @@ apps:
     - service_meao_gcp
     authorized_users:
     - gdestuynder@mozilla.com
-    - akrug@mozilla.com
-    - jmize@mozilla.com
+    - aalexander@mozilla.com
     - dparfitt@mozilla.com
     client_id: uYFDijsgXulJ040Os6VJLRxf0GG30OmC
     display: true
